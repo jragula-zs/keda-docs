@@ -445,6 +445,10 @@ logo = "teamleader.png"
 url = "https://zapier.com"
 logo = "zapier.png"
 
+[[params.users]]
+url = "https://zscaler.com"
+logo = "zscaler.svg"
+
 # "Partners" section on the Community page
 [[params.partners]]
 url = "https://microsoft.com"
